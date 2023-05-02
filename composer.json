@@ -1,0 +1,22 @@
+{
+    "name": "gouda/jt_express_laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gouda\\JtExpressLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "macbookpro",
+            "email": "dev.mohamedgouda@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^7.9"
+    }
+}
