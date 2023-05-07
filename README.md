@@ -41,7 +41,7 @@ To run this package, you will need to add the following environment variables to
 
 run command:
 ```bash
- php artisan vendor:publish --tag=HyperPay-package-config
+ php artisan vendor:publish --tag=JtExpress-package-config
 ```
 ## How to use ?
 
